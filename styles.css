@@ -1,9 +1,30 @@
 * {
-    margin: 0px;
-    padding: 0px;
-    background-color: #251628;
+
     font-family:'Courier New', Courier, monospace;
     color: #ccfaff;
     font-weight: 200;
+    border-color: #ffcd00;
 }
 
+body {
+    background-color: #251628;
+}
+
+h1 {
+    margin: 5px;
+    padding: 5px;
+}
+
+.header {
+    width: 100%;
+    border-style:groove;
+}
+
+.thumbnail {
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: none;
+    border-style: double;
+    padding: 1em;
+    margin:2em;
+}
